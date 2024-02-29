@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaizaKurniawan
+- 👋 Hi, I’m @RaizaKurniawan QA Lead at Mythic Protocol
 - 👀 I’m interested in qa engineering
 - 🌱 I’m currently learning automation
 - 💞️ I’m looking to collaborate on ...
