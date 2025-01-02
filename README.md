@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on [Web3 project and Web3 relate](https://www.confiction.com/)
 
-- 👨‍💻 All of my projects are available at [raiza.my.id](raiza.my.id)
-
 - 📫 How to reach me **raizakurniawan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
