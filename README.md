@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fict Zero, Riftstorm, Portal, Confiction](https://www.confiction.com/)
 
-- 🌱 I’m currently use **Cypress, MochaJs, API, JMeter, Postman, BurpSuite, and another QA tools**
+- 🌱 I’m currently use **Cypress, MochaJs, JMeter, Postman, BurpSuite, and another QA tools**
 
 - 👯 I’m looking to collaborate on [Web3 project and Web3 relate](https://www.confiction.com/)
 
